@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-family: 50px;
+    
+}
+ .red{
+     color: slateblue;
+ }
+ .rr{
+     color: rgb(212, 185, 180);
+ }
+ section{
+     display: flex;
+ }
+ .gm{
+     width: 40%;
+ }
+ .gm img{
+     width: 80%;
+ }
+ .link-button{
+     text-decoration: none;
+     background-color: violet;
+     padding: 10px 40px;
+ }
