@@ -17,9 +17,12 @@ h1{
  .rr{
      color: green;
  }
+ #to{
+     font-size: 50px;
+ }
  section{
      display: flex;
-     margin-left: 8%;
+     margin-left: 7%;
  }
  .gm{
      width: 40%;
@@ -35,6 +38,7 @@ h1{
 
  h1{
      color: slateblue;
+     font-size: 40px;
     }
     .experince-area{
         color: black;
@@ -43,4 +47,18 @@ h1{
  h2{
      color: red;
  }
- 
+ .oo{
+     padding-left: 2%;
+     box-shadow: 10px 10px 40px red;
+ }
+ .experience- area{
+     width: 40%;
+     margin-left: 5%;
+     margin-right: 5%;
+     padding-left: 20%;
+     border-right: 10px solid;
+
+ }
+ footer p{
+     text-align: center;
+ }
