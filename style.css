@@ -1,25 +1,31 @@
 body{
     font-family: 'Poppins', sans-serif;
+    background-color:cyan;
+    
 }
+
 h1{
     font-family: 50px;
     
 }
  .red{
-     color: slateblue;
+     color:red;
+ }
+ .black{
+     color:blue;
  }
  .rr{
-     color: rgb(212, 185, 180);
+     color: green;
  }
  section{
      display: flex;
-     margin-left: 2%;
+     margin-left: 8%;
  }
  .gm{
      width: 40%;
  }
  .gm img{
-     width: 80%;
+     width: 20%;
  }
  .link-button{
      text-decoration: none;
@@ -29,8 +35,12 @@ h1{
 
  h1{
      color: slateblue;
-    
-
+    }
+    .experince-area{
+        color: black;
+        
+    }
+ h2{
+     color: red;
  }
- 
  
